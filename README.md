@@ -1,3 +1,7 @@
 # machine-learning
 
-###### svm(Support Vector Machines)
+## SVM(Support Vector Machines)
+
+###### Linear SVM Classification
+
+###### Non Linear SVM Classification
