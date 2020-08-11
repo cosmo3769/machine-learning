@@ -4,6 +4,8 @@
 
 ###### Linear SVM Classification
 
+**iris dataset**
+
 **Large Margin Classification**
 
 **Support Vectors**
