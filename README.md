@@ -6,7 +6,7 @@
 
 **iris dataset**
 
-**Large Margin Classification**
+**Large Margin Classification(widest street approach)**
 
 **Support Vectors**
 
