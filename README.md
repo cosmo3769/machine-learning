@@ -20,6 +20,10 @@
 
 **non linear problems solution**
 
-**Polynomial Features {Polynomial Kernel}**
+**Polynomial Features**
+
+**Polynomial Kernel(kernel trick)**
 
 **Similarity Features**
+
+**Gaussian RBF(Gaussian Radial Basis Function)**
